@@ -1,0 +1,27 @@
+# Python-specific files
+*.pyc
+*.pyo
+__pycache__/
+*.env
+
+# Virtual environment
+venv/
+
+# Flask logs
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage and report files
+.coverage
+htmlcov/
+
+# Other
+*.sqlite3
+*.db
